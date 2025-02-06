@@ -1,3 +1,5 @@
+![Spotify Imersão](./imersao-frontend.webp)
+
 # 🎵 Spotify Imersão
 
 Este projeto foi desenvolvido durante a **Imersão Front-end da Alura**, criando uma aplicação inspirada no Spotify com funcionalidades interativas.
@@ -37,7 +39,6 @@ Um agradecimento especial aos instrutores:
 - **Guilherme Lima**
 - **Mayara Cardoso**
 
-O aprendizado foi imenso e com certeza aplicarei tudo o que aprendi em projetos futuros!  
-
-![Spotify Imersão](./imersao-frontend.webp)
+## Autora
+- Larissa 
 
