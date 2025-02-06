@@ -1,44 +1,14 @@
-![Spotify Imersão](./imersao-frontend.webp)
+# **Spotify Clone com React**
 
-# 🎵 Spotify Imersão
+Esse projeto foi desenvolvido durante a imersão Frontend da Alura, onde tive o desafio de criar um clone do Spotify com foco em **componentização** e **responsividade**. A ideia foi construir uma interface limpa e interativa usando **React**. Esse projeto foi uma ótima oportunidade de aprender React e aplicar boas práticas de Frontend. Embora tenha sido desafiador no começo, foi uma experiência muito gratificante.
 
-Este projeto foi desenvolvido durante a **Imersão Front-end da Alura**, criando uma aplicação inspirada no Spotify com funcionalidades interativas.
+## **Tecnologias utilizadas:**
+- **React.js** – Para a construção da interface e interação dinâmica.
+- **CSS** – Para estilização moderna e responsiva.
+- **FontAwesome** – Para ícones e elementos visuais.
 
----
+## **Como rodar o projeto:**
 
-## Sobre a Imersão Front-end
-
-A **Imersão Front-end da Alura** é um evento online e gratuito que oferece uma experiência prática focada no desenvolvimento de aplicações interativas. Durante o evento, aprendi a utilizar **HTML**, **CSS**, **JavaScript** e **React** para criar projetos completos. Esse projeto é o resultado dessa jornada de aprendizado.
-
----
-
-## Tecnologias Utilizadas
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-
----
-
-## Funcionalidades
-
-- **Navegação entre seções**: Permite ao usuário explorar diferentes partes da aplicação de forma simples e rápida.
-- **Busca de músicas**: Encontre suas músicas favoritas facilmente.
-- **Criação de playlists**: Organize suas músicas em playlists personalizadas.
-
----
-
-## Agradecimentos
-
-Agradeço profundamente à **Alura** pela **Imersão Front-End** que me proporcionou essa experiência incrível. 
-
-Um agradecimento especial aos instrutores:
-
-- **Fernanda Degolin**
-- **Guilherme Lima**
-- **Mayara Cardoso**
-
-## Autora
-- Larissa 
-
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/larissassk/spotify-react
